@@ -29,7 +29,7 @@ src/
 ### Passos
 1. Clone o repositório (ou baixe o código-fonte):
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Y0hou/REUSO_FRAMEWORK
    ```
 
 2. Navegue até o diretório do projeto:
